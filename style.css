@@ -1,0 +1,24 @@
+/* Google Font */
+
+@import url('https://fonts.googleapis.com/css2?family=Langar&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+
+h3.shanto{
+    font-family: 'Roboto', sans-serif;
+}
+
+.nahid{
+    font-family: 'Langar', cursive;
+}
+
+.ruman{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 300;
+}
+
+.sultana{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+}
